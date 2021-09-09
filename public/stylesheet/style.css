@@ -1,0 +1,53 @@
+/* NAVBAR */
+
+.navbar {
+  background-color: grey;
+}
+
+.nav-brand {
+  font-size: 100px !important;
+}
+
+.avatarr {
+  width: 35px;
+  height: 35px;
+}
+
+.dropdown-toggle {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.nav-item .btn-login {
+  color: #fff;
+  text-decoration: none;
+  border: 2px solid #fff;
+  font-weight: bold;
+  font-size: 14px;
+}
+.nav-item .btn-register {
+  color: #ffffff !important;
+  text-decoration: none;
+  border: 2px solid #393939;
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #393939;
+}
+
+/* index */
+
+.card {
+  border-radius: 13px !important;
+}
+
+.card-img-top {
+  background-color: rgb(214, 143, 143);
+  /* border-top-left-radius: 13px !important;
+  border-top-right-radius: 13px !important; */
+}
+
+.card-body {
+  background-color: rgb(209, 29, 29);
+  /* border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px; */
+}
